@@ -1,0 +1,2 @@
+# Esercitazioni
+esercitazioni con Luca
